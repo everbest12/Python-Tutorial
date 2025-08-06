@@ -1,7 +1,7 @@
 name = str(input("Enter your name:  "))
-print (f"Hi {name}, WELCOME TO EMMEX CONRENCY CONVERTER")
+print (f"Hi {name}, WELCOME TO EMMEX CUNRENCY CONVERTER")
 
-amount = int(input(" enter amount to convert:  "))
+amount = int(input(" Enter amount to convert:  "))
 usd_rate = 1500    
 eur_rate = 1600    
 gbp_rate = 1800    
